@@ -1,0 +1,73 @@
+img {width:100%;border-radius: 4px;}
+div h3{
+border-radius: 4px;
+text-align:center;
+background-color: #49BF9D;
+color: white;
+cursor: pointer;
+margin-top: 1px;
+padding: 5px;
+}
+
+.thum {
+    position:relative;
+    overflow:hidden;
+}
+.thum:hover{ color: red;} 
+.caption {
+    position:absolute;
+    /*top:0;
+    right:0;*/
+    /*background-image:url('../img/Untitled-2.png');
+	background-repeat: repeat-x;*/
+	background-color: #E6E6E6;
+	opacity: 0.9;
+    width:100%;
+    height:100%;
+	/*top:38%;
+	bottom:30%;
+	left: 40%;
+	right: 40%;*/
+    /*padding:20%;*/
+    display: none;
+    text-align:center;
+    color:#fff !important;
+	/*border-radius: 50%;
+	/*width: 68px;*/
+	cursor: hand;
+    cursor: pointer;
+	/*margin-top: 24%;
+	margin-left:38%;
+	/*border-top-right-radius: 25%;
+	border-bottom-left-radius: 25%;*/
+}
+/*.caption h4{
+     
+	background-color: #56D18B;
+	border: 1px solid white; 
+    border-top-left-radius: 2em;
+	border-bottom-right-radius: 2em;
+	}*/
+.caption a{text-decoration:none; color: white; font-weight: bold;
+          font-style:italic; text-align:center;}
+/*.btn-danger{
+    opacity:1.0;
+}*/
+.glyphicon{
+   color: black;
+   margin-top:29%;
+   left: 0;
+}		  
+
+
+
+
+
+
+
+
+
+
+
+
+

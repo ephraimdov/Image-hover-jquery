@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>slide demo</title>
+<script src="js/jquery.min.js"></script>
+<link rel="stylesheet" src="jquery-ui.css">
+<style>
+#toggle {
+width: 100px;
+height: 100px;
+background: #ccc;
+}
+</style>
+</head>
+<body>
+<p>Click anywhere to toggle the box.</p>
+<div id="toggle"></div>
+<script>
+$( document ).click(function() {
+$( "#toggle" ).animate({width:'toggle'},350);
+});
+</script>
+</body>
+</html>
