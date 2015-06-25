@@ -1,3 +1,4 @@
 http://html5up.net/
 http://bootsnipp.com/snippets/featured/thumbnail-caption-hover-effect
 http://www.html5templatesdreamweaver.com/hover-effects.html
+http://www.corelangs.com/css/box/hover.html
